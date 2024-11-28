@@ -21,7 +21,6 @@ python stage2_adapt.py \
         --path_mu_sig4 ./save_100_param1/cs_six_fog \
         --path_mu_sig5 ./save_100_param1/cs_six_fire \
         --path_mu_sig6 ./save_100_param1/cs_six_sandstorm \
-        --pin_total_it 100 \
         --proj_lr 0.001 \
         --scale  0.01 \
         --total_itrs 2000 \
@@ -55,7 +54,6 @@ python stage2_adapt.py \
 #         --path_mu_sig4 ./save_100_param2/cs_six_fog \
 #         --path_mu_sig5 ./save_100_param2/cs_six_fire \
 #         --path_mu_sig6 ./save_100_param2/cs_six_sandstorm \
-#         --pin_total_it 100 \
 #         --proj_lr 0.001 \
 #         --scale  0.01 \
 #         --total_itrs 2000 \
