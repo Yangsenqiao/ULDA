@@ -11,6 +11,10 @@
 </div><br/>
 
 
+## News
+- [x] We have updated the Sand-Fire dataset, which can be downloaded [here](https://huggingface.co/datasets/Senqiao/Sand-Fire-ULDA).
+- [x] We have uploaded the `script_visualize.py` to visualize the collected data and human annotations.
+
 ## Video
 
 <p align="center">
