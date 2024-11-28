@@ -4,7 +4,7 @@
 [Li Jiang](https://scholar.google.com/citations?user=5cIodxsAAAAJ&hl),
 [Jiaya Jia](https://scholar.google.com/citations?user=XPAkzTEAAAAJ&hl=en)
 
-[[`arXiv`](https://arxiv.org/abs/2404.07155)] [[`Page`](https://senqiaoyang.com/project/ulda)] [[`BibTeX`](#cite)]
+[[`arXiv`](https://arxiv.org/abs/2404.07155)] [[`Page`](https://senqiaoyang.com/project/ulda)] [[`BibTeX`](#cite)] [[`Dataset`](https://huggingface.co/datasets/Senqiao/Sand-Fire-ULDA)]
 
 <div align="center">
   <img src="imgs/teaser.png" width="50%" height="50%"/>
